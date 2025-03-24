@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zmnSi2dqTCdwAc/F8EUGpWVz4gGyPMZO/z4y8n9t8zo=",
+  "Source": "meterservice",
+  "BasePath": "_content/meterservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

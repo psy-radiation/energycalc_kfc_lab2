@@ -1,0 +1,167 @@
+Meter History
+
+Meter ID: m123
+Previous Day: 2 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 19:52:37
+-----------------------------------
+Meter ID: m123
+Previous Day: 3 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 19:52:48
+-----------------------------------
+Meter ID: m123
+Previous Day: 4 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 19:53:02
+-----------------------------------
+Meter ID: m123
+Previous Day: 5 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 19:53:05
+-----------------------------------
+Meter ID: x1
+Previous Day: 1 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 20:15:08
+-----------------------------------
+Meter ID: x1
+Previous Day: 1 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 20:17:32
+-----------------------------------
+Meter ID: x1
+Previous Day: 1 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 20:20:13
+-----------------------------------
+Meter ID: x3
+Previous Day: 1 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 20:38:22
+-----------------------------------
+Meter ID: x6
+Previous Day: 1 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 20:39:13
+-----------------------------------
+Meter ID: x6
+Previous Day: 2 kWh
+Previous Night: 2 kWh
+Reading Date: 2025-03-24 20:39:23
+-----------------------------------
+Meter ID: z1
+Previous Day: 3 kWh
+Previous Night: 2 kWh
+Reading Date: 2025-03-24 20:39:29
+-----------------------------------
+Meter ID: z1
+Previous Day: 4 kWh
+Previous Night: 3 kWh
+Reading Date: 2025-03-24 20:39:38
+-----------------------------------
+Meter ID: x7
+Previous Day: 2 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 20:48:54
+-----------------------------------
+Meter ID: x7
+Previous Day: 3 kWh
+Previous Night: 2 kWh
+Reading Date: 2025-03-24 20:49:05
+-----------------------------------
+Meter ID: xz1
+Previous Day: 2 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 20:51:41
+-----------------------------------
+Meter ID: zxc1
+Previous Day: 3 kWh
+Previous Night: 2 kWh
+Reading Date: 2025-03-24 21:03:12
+-----------------------------------
+Meter ID: MN1
+Previous Day: 120 kWh
+Previous Night: 90 kWh
+Reading Date: 2025-03-24 21:07:00
+-----------------------------------
+Meter ID: zxc2
+Previous Day: 2 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 21:09:00
+-----------------------------------
+Meter ID: zxc2
+Previous Day: 2 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 21:09:11
+-----------------------------------
+Meter ID: mn3
+Previous Day: 2 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 21:11:04
+-----------------------------------
+Meter ID: vbn1
+Previous Day: 2 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 21:15:06
+-----------------------------------
+Meter ID: vbn1
+Previous Day: 3 kWh
+Previous Night: 2 kWh
+Reading Date: 2025-03-24 21:16:09
+-----------------------------------
+Meter ID: vbn1
+Previous Day: 4 kWh
+Previous Night: 3 kWh
+Reading Date: 2025-03-24 21:17:26
+-----------------------------------
+Meter ID: vbn1
+Previous Day: 5 kWh
+Previous Night: 4 kWh
+Reading Date: 2025-03-24 22:06:14
+-----------------------------------
+Meter ID: vbn1
+Previous Day: 3 kWh
+Previous Night: 2 kWh
+Reading Date: 2025-03-24 22:06:22
+-----------------------------------
+Meter ID: vbn1
+Previous Day: 3 kWh
+Previous Night: 2 kWh
+Reading Date: 2025-03-24 22:08:25
+-----------------------------------
+Meter ID: vbn1
+Previous Day: 2 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 22:18:18
+-----------------------------------
+Meter ID: vbn1
+Previous Day: 3 kWh
+Previous Night: 2 kWh
+Reading Date: 2025-03-24 22:22:15
+-----------------------------------
+Meter ID: vbn1
+Previous Day: 3 kWh
+Previous Night: 2 kWh
+Reading Date: 2025-03-24 22:22:40
+-----------------------------------
+Meter ID: vbn1
+Previous Day: 6 kWh
+Previous Night: 5 kWh
+Reading Date: 2025-03-24 22:22:44
+-----------------------------------
+Meter ID: vbn1
+Previous Day: 2 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 22:25:32
+-----------------------------------
+Meter ID: vbn1
+Previous Day: 2 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 22:31:28
+-----------------------------------
+Meter ID: vbn1
+Previous Day: 2 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-24 22:34:12
+-----------------------------------

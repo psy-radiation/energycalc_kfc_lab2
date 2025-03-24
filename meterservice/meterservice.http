@@ -1,0 +1,6 @@
+@meterservice_HostAddress = http://localhost:5095
+
+GET {{meterservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
