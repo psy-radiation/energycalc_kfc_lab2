@@ -165,3 +165,33 @@ Previous Day: 2 kWh
 Previous Night: 1 kWh
 Reading Date: 2025-03-24 22:34:12
 -----------------------------------
+Meter ID: bv
+Previous Day: 3 kWh
+Previous Night: 2 kWh
+Reading Date: 2025-03-25 01:14:49
+-----------------------------------
+Meter ID: xcvb12
+Previous Day: 5 kWh
+Previous Night: 2 kWh
+Reading Date: 2025-03-25 02:04:57
+-----------------------------------
+Meter ID: xcvb12
+Previous Day: 3 kWh
+Previous Night: 1 kWh
+Reading Date: 2025-03-25 02:06:31
+-----------------------------------
+Meter ID: fgh
+Previous Day: 5 kWh
+Previous Night: 3 kWh
+Reading Date: 2025-03-25 02:07:33
+-----------------------------------
+Meter ID: zxc123
+Previous Day: 6 kWh
+Previous Night: 3 kWh
+Reading Date: 2025-03-25 02:24:05
+-----------------------------------
+Meter ID: zxc123
+Previous Day: 4 kWh
+Previous Night: 2 kWh
+Reading Date: 2025-03-25 02:28:42
+-----------------------------------

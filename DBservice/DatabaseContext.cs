@@ -14,5 +14,5 @@ public class MeterRecord
     public string MeterId { get; set; }
     public double Day { get; set; }
     public double Night { get; set; }
-    public DateTime Date { get; set; } = DateTime.Now;
+    public DateTime Timestamp { get; set; } = DateTime.Now;
 }

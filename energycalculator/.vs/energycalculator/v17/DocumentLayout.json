@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\NZXT\\source\\repos\\energycalc_kfc_lab2\\energycalculator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{39C36FC8-0454-4294-8B3A-B645A250CEAA}|..\\billingservice\\billingservice.csproj|c:\\users\\nzxt\\source\\repos\\energycalc_kfc_lab2\\billingservice\\controllers\\billingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A86AF237-C765-4F92-9671-DD4888F0ADC6}|energycalculator.csproj|c:\\users\\nzxt\\source\\repos\\energycalc_kfc_lab2\\energycalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A86AF237-C765-4F92-9671-DD4888F0ADC6}|energycalculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,31 +14,19 @@
       "RelativeMoniker": "D:0:0:{A86AF237-C765-4F92-9671-DD4888F0ADC6}|energycalculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NZXT\\source\\repos\\billingservice\\billingservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{693E14E4-CDA2-4C19-BDA8-E5CCAED9716D}|..\\gatewayApi\\gatewayApi.csproj|c:\\users\\nzxt\\source\\repos\\energycalc_kfc_lab2\\gatewayapi\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NZXT\\source\\repos\\billingservice\\AddDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4503C61C-5F74-440C-A09A-748B2C3F6F95}|..\\DBservice\\DBservice.csproj|c:\\users\\nzxt\\source\\repos\\energycalc_kfc_lab2\\dbservice\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NZXT\\source\\repos\\DBservice\\Controllers\\DatabaseController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4503C61C-5F74-440C-A09A-748B2C3F6F95}|..\\DBservice\\DBservice.csproj|c:\\users\\nzxt\\source\\repos\\energycalc_kfc_lab2\\dbservice\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NZXT\\source\\repos\\DBservice\\DatabaseContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AED646CB-1C48-4958-9E07-C24FAC9DEC00}|..\\TestProject1\\TestProject1.csproj|c:\\users\\nzxt\\source\\repos\\energycalc_kfc_lab2\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NZXT\\source\\repos\\billingservice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NZXT\\source\\repos\\billingservice\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NZXT\\source\\repos\\meterservice\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NZXT\\source\\repos\\gatewayApi\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NZXT\\source\\repos\\billingservice\\Controllers\\BillingController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA3BCA25-F478-4D07-9F3C-783D3E487E64}|..\\meterservice\\meterservice.csproj|c:\\users\\nzxt\\source\\repos\\energycalc_kfc_lab2\\meterservice\\controllers\\metercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NZXT\\source\\repos\\gatewayApi\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
@@ -58,112 +49,91 @@
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "billingservice.csproj",
-              "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\billingservice\\billingservice.csproj",
-              "RelativeDocumentMoniker": "..\\..\\billingservice\\billingservice.csproj",
-              "ToolTip": "C:\\Users\\NZXT\\source\\repos\\billingservice\\billingservice.csproj",
-              "RelativeToolTip": "..\\..\\billingservice\\billingservice.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-24T18:05:24.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\billingservice\\AddDbContext.cs",
-              "RelativeDocumentMoniker": "..\\..\\billingservice\\AddDbContext.cs",
-              "ToolTip": "C:\\Users\\NZXT\\source\\repos\\billingservice\\AddDbContext.cs",
-              "RelativeToolTip": "..\\..\\billingservice\\AddDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T18:03:20.93Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DatabaseController.cs",
-              "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\DBservice\\Controllers\\DatabaseController.cs",
-              "RelativeDocumentMoniker": "..\\..\\DBservice\\Controllers\\DatabaseController.cs",
-              "ToolTip": "C:\\Users\\NZXT\\source\\repos\\DBservice\\Controllers\\DatabaseController.cs",
-              "RelativeToolTip": "..\\..\\DBservice\\Controllers\\DatabaseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\energycalc_kfc_lab2\\DBservice\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "..\\DBservice\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\NZXT\\source\\repos\\energycalc_kfc_lab2\\DBservice\\DatabaseContext.cs",
+              "RelativeToolTip": "..\\DBservice\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T09:03:35.307Z"
+              "WhenOpened": "2025-03-24T23:08:33.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DatabaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\DBservice\\DatabaseContext.cs",
-              "RelativeDocumentMoniker": "..\\..\\DBservice\\DatabaseContext.cs",
-              "ToolTip": "C:\\Users\\NZXT\\source\\repos\\DBservice\\DatabaseContext.cs",
-              "RelativeToolTip": "..\\..\\DBservice\\DatabaseContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "DatabaseController.cs",
+              "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\energycalc_kfc_lab2\\DBservice\\Controllers\\DatabaseController.cs",
+              "RelativeDocumentMoniker": "..\\DBservice\\Controllers\\DatabaseController.cs",
+              "ToolTip": "C:\\Users\\NZXT\\source\\repos\\energycalc_kfc_lab2\\DBservice\\Controllers\\DatabaseController.cs",
+              "RelativeToolTip": "..\\DBservice\\Controllers\\DatabaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T09:06:04.348Z"
+              "WhenOpened": "2025-03-24T23:08:36.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillingController.cs",
+              "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\energycalc_kfc_lab2\\billingservice\\Controllers\\BillingController.cs",
+              "RelativeDocumentMoniker": "..\\billingservice\\Controllers\\BillingController.cs",
+              "ToolTip": "C:\\Users\\NZXT\\source\\repos\\energycalc_kfc_lab2\\billingservice\\Controllers\\BillingController.cs",
+              "RelativeToolTip": "..\\billingservice\\Controllers\\BillingController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowG4AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:03:54.667Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\billingservice\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\billingservice\\Program.cs",
-              "ToolTip": "C:\\Users\\NZXT\\source\\repos\\billingservice\\Program.cs",
-              "RelativeToolTip": "..\\..\\billingservice\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\energycalc_kfc_lab2\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\NZXT\\source\\repos\\energycalc_kfc_lab2\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwGAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T13:56:48.128Z"
+              "WhenOpened": "2025-03-24T21:39:57.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\billingservice\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "..\\..\\billingservice\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\NZXT\\source\\repos\\billingservice\\Properties\\launchSettings.json",
-              "RelativeToolTip": "..\\..\\billingservice\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-18T13:45:39.02Z"
+              "Title": "MeterController.cs",
+              "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\energycalc_kfc_lab2\\meterservice\\Controllers\\MeterController.cs",
+              "RelativeDocumentMoniker": "..\\meterservice\\Controllers\\MeterController.cs",
+              "ToolTip": "C:\\Users\\NZXT\\source\\repos\\energycalc_kfc_lab2\\meterservice\\Controllers\\MeterController.cs",
+              "RelativeToolTip": "..\\meterservice\\Controllers\\MeterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:25:24.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\meterservice\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "..\\..\\meterservice\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\NZXT\\source\\repos\\meterservice\\Properties\\launchSettings.json",
-              "RelativeToolTip": "..\\..\\meterservice\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-18T13:42:16.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\gatewayApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "..\\..\\gatewayApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\NZXT\\source\\repos\\gatewayApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "..\\..\\gatewayApi\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-18T13:24:48.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\energycalc_kfc_lab2\\energycalculator\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -175,56 +145,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\energycalc_kfc_lab2\\energycalculator\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\NZXT\\source\\repos\\energycalc_kfc_lab2\\energycalculator\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAowHAAAAAZAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswEcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T12:43:40.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BillingController.cs",
-              "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\billingservice\\Controllers\\BillingController.cs",
-              "RelativeDocumentMoniker": "..\\..\\billingservice\\Controllers\\BillingController.cs",
-              "ToolTip": "C:\\Users\\NZXT\\source\\repos\\billingservice\\Controllers\\BillingController.cs",
-              "RelativeToolTip": "..\\..\\billingservice\\Controllers\\BillingController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T12:38:09.773Z"
+              "DocumentIndex": 3,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\energycalc_kfc_lab2\\gatewayApi\\ocelot.json",
+              "RelativeDocumentMoniker": "..\\gatewayApi\\ocelot.json",
+              "ToolTip": "C:\\Users\\NZXT\\source\\repos\\energycalc_kfc_lab2\\gatewayApi\\ocelot.json",
+              "RelativeToolTip": "..\\gatewayApi\\ocelot.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T23:24:25.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "ocelot.json",
               "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\gatewayApi\\ocelot.json",
               "RelativeDocumentMoniker": "..\\..\\gatewayApi\\ocelot.json",
               "ToolTip": "C:\\Users\\NZXT\\source\\repos\\gatewayApi\\ocelot.json",
               "RelativeToolTip": "..\\..\\gatewayApi\\ocelot.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-18T12:32:24.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "MeterController.cs",
               "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\meterservice\\Controllers\\MeterController.cs",
               "RelativeDocumentMoniker": "..\\..\\meterservice\\Controllers\\MeterController.cs",
               "ToolTip": "C:\\Users\\NZXT\\source\\repos\\meterservice\\Controllers\\MeterController.cs",
               "RelativeToolTip": "..\\..\\meterservice\\Controllers\\MeterController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T12:34:10.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\billingservice\\appsettings.json",
               "RelativeDocumentMoniker": "..\\..\\billingservice\\appsettings.json",
@@ -236,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "MeterReading.cs",
               "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\billingservice\\MeterReading.cs",
               "RelativeDocumentMoniker": "..\\..\\billingservice\\MeterReading.cs",
@@ -248,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\meterservice\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\meterservice\\Program.cs",
@@ -260,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\NZXT\\source\\repos\\gatewayApi\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\gatewayApi\\Program.cs",

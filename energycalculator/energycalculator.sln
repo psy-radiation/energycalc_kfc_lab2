@@ -5,13 +5,15 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "energycalculator", "energycalculator.csproj", "{A86AF237-C765-4F92-9671-DD4888F0ADC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gatewayApi", "..\gatewayApi\gatewayApi.csproj", "{693E14E4-CDA2-4C19-BDA8-E5CCAED9716D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gatewayApi", "..\gatewayApi\gatewayApi.csproj", "{693E14E4-CDA2-4C19-BDA8-E5CCAED9716D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meterservice", "..\meterservice\meterservice.csproj", "{CA3BCA25-F478-4D07-9F3C-783D3E487E64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "meterservice", "..\meterservice\meterservice.csproj", "{CA3BCA25-F478-4D07-9F3C-783D3E487E64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "billingservice", "..\billingservice\billingservice.csproj", "{39C36FC8-0454-4294-8B3A-B645A250CEAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "billingservice", "..\billingservice\billingservice.csproj", "{39C36FC8-0454-4294-8B3A-B645A250CEAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBservice", "..\DBservice\DBservice.csproj", "{4503C61C-5F74-440C-A09A-748B2C3F6F95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBservice", "..\DBservice\DBservice.csproj", "{4503C61C-5F74-440C-A09A-748B2C3F6F95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{AED646CB-1C48-4958-9E07-C24FAC9DEC00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{4503C61C-5F74-440C-A09A-748B2C3F6F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4503C61C-5F74-440C-A09A-748B2C3F6F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4503C61C-5F74-440C-A09A-748B2C3F6F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AED646CB-1C48-4958-9E07-C24FAC9DEC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED646CB-1C48-4958-9E07-C24FAC9DEC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED646CB-1C48-4958-9E07-C24FAC9DEC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED646CB-1C48-4958-9E07-C24FAC9DEC00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

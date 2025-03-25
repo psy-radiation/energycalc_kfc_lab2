@@ -10,11 +10,15 @@ public class MeterController : ControllerBase
     public IActionResult UpdateMeter([FromBody] MeterData data)
     {
         if (!meters.ContainsKey(data.MeterId))
+        {
             meters[data.MeterId] = (data.Day, data.Night);
+            return Ok(new { Message = "Data Added " + data.MeterId, meters });
+        }
         else
+        {
             meters[data.MeterId] = (meters[data.MeterId].day + data.Day, meters[data.MeterId].night + data.Night);
-
-        return Ok(new { Message = "Data Updated", meters });
+            return Ok(new { Message = "Data Updated " + data.MeterId, meters });
+        }
     }
 }
 public class MeterData

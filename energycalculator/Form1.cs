@@ -19,7 +19,6 @@ namespace energycalculator
 
         private async void btnSendData_Click(object sender, EventArgs e)
         {
-            // Данные лічильника, введённые пользователем
             var meterData = new
             {
                 MeterId = textBox1.Text,
@@ -55,9 +54,9 @@ namespace energycalculator
                 var dbResult = await dbResponse.Content.ReadAsStringAsync();
 
                 // Выводим результаты пользователю
-                if (billingResult.Contains("Your current readings are lower than previous. Do you want to correct them?"))
+                if (billingResult.Contains("Your current rdngs are lower than pre?"))
                 {
-                    DialogResult dialogResult = MessageBox.Show("Sure", "Some Title", MessageBoxButtons.YesNo);
+                    DialogResult dialogResult = MessageBox.Show("fghhj", "fgh", MessageBoxButtons.YesNo);
                     if (dialogResult == DialogResult.Yes)
                     {
                         billingResponse = await _client.PostAsync("correct", content2);
@@ -97,12 +96,10 @@ namespace energycalculator
                 var readhis = JsonSerializer.Deserialize<List<MeterRecord>>(historyResult);
                 if (readhis != null)
                 {
-                    // Открываем файл для записи
                     using (var writer = new StreamWriter("history.txt"))
                     {
                         writer.WriteLine("Meter History\n");
 
-                        // Форматированный вывод данных
                         foreach (var reading in readhis)
                         {
                             writer.WriteLine($"Meter ID: {reading.meterId}");
